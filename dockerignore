@@ -1,0 +1,31 @@
+# Git files
+.git
+.gitignore
+
+# Documentation
+*.md
+README.md
+
+# Logs
+*.log
+
+# Test files (optional - remove if you want tests in container)
+*_test.go
+
+# Environment files
+.env
+*.env
+
+# IDE files
+.vscode
+.idea
+
+# Build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+
+# OS files
+.DS_Store
+Thumbs.db
