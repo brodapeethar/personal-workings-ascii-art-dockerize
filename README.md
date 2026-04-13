@@ -80,7 +80,7 @@ newgrp docker
 ## Installation
 Option 1: Clone Repository
 bash# Clone the repository
-git clone https://github.com/yourusername/ascii-art-web-dockerize.git
+git clone https://github.com/brodapeethar/ascii-art-web-dockerize.git
 cd ascii-art-web-dockerize
 
 Option 2: Manual Setup
